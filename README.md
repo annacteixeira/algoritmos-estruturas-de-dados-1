@@ -1,7 +1,7 @@
 
 # Algoritmos e Estruturas de Dados 1 👩‍💻
 
-<img alt="logo-puc-minas" src="https://www.pucminas.br/pos/letras/noticias/PublishingImages/Paginas/COMUNICADO/Brasao%20PUC%20Minas%20aplicacao_cinza.png" width=200/>
+<p align="center"><img alt="logo-puc-minas" src="https://www.pucminas.br/pos/letras/noticias/PublishingImages/Paginas/COMUNICADO/Brasao%20PUC%20Minas%20aplicacao_cinza.png" width=200/></p>
 
 
 Esse repositório foi criado para armazenar a resolução das listas de exercício da matéria Algoritmos de Dados 1, lecionada no 1º Período de Engenharia de Software da PUC Minas
