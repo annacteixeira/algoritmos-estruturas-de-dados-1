@@ -12,12 +12,6 @@ Esse repositório foi criado para armazenar a resolução das listas de exercíc
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-## Documentação das Linguagens
-
-[C]([https://linktodocumentation](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)) 
-
-[C++]([https://linktodocumentation](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170))
-
 # Referências
 
  <ul>
