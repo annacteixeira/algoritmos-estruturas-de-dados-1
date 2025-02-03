@@ -46,4 +46,6 @@ int main(){
         default:
             printf("Nao eh pontuacao.\n");
     }
+
+    return 0;
 }
