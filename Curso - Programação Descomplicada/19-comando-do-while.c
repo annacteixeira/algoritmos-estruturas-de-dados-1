@@ -26,6 +26,21 @@ int main(){
     do{
         printf("%d\n", a);
         a++;
-    }while (a < b);
+    } while (a < b);
+
+    // O comando do-while é muito utilizado quando queremos construir um menu de opções.
+
+    int i;
+
+    do{
+        printf("Escolha uma opcao:\n");
+        printf("[1] Opcao 1\n");
+        printf("[2] Opcao 2\n");
+        printf("[3] Opcao 3\n");
+
+        scanf("%d", &i);
+    }while((i < 1) || (i > 3));
+
+    printf("Voce escolheu a opcao %d\n", i);
     return 0;
 }
